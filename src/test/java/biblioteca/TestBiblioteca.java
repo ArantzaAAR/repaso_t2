@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Pruebas mejoradas para la clase Biblioteca.
  */
-public class BibliotecaTest {
+public class TestBiblioteca {
 
     private Biblioteca biblioteca;
     private Libro libro1;
